@@ -1,6 +1,6 @@
 
 ## 对应视频讲解地址
-> 
+> https://www.bilibili.com/video/BV1gu411q7S7?spm_id_from=333.999.0.0
 
 ## 0. why go-zero
 
