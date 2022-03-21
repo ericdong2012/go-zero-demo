@@ -62,8 +62,11 @@ go-zero 包含极简的 API 定义和生成工具 goctl，可以根据定义的 
 | 使用难度     | 简单                     | 有一定难度             | 类Java      | ×       | 有难度        |
 | cncf         | yes                      | yes                    | yes         | yes     | yes           |
 | stars        | 14.1k                    | 16.3k                  | 3.8k        | 3.5k    | 2.9k          |
+| 开源时间     | 2020.8.7                 | 2019.1.10              |             |         |               |
 | 文档         | yes                      | yes                    | yes         | ×       | ×             |
 | 微服务工具包 | yes                      | yes                    | no(单纯rpc) | ×       | ×             |
+
+
 
 
 
